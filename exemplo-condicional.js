@@ -1,3 +1,4 @@
+// PRIMEIRO EXEMPLO
 const n1 = 2
 const n2 = "2"
 

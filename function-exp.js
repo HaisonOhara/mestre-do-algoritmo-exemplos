@@ -1,3 +1,4 @@
+// CODIGO EXEMPLO FUNCAO
 const prompt = require('prompt-sync')();
 const segredo = Math.floor(Math.random() * 1) + 1; // Sorteia entre 1 e 10
 console.log("FALA NADA O SEGREDO É:", segredo)
