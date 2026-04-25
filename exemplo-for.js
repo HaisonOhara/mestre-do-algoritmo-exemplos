@@ -11,3 +11,10 @@ for (let i = 0; i <= 10; i++) {
 }
 
 console.log("DECOLAR! 🚀");
+/*
+Exercicio Média
+Calcular Média dos Alunos
+Perguntar quantidade de alunos
+Perguntar Nota 
+Exibir Média no final
+*/
