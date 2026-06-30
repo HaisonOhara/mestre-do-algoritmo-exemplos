@@ -5,8 +5,8 @@ const usuarios = [
   { nome: "Carla", idade: 30 }
 ];
 
-function filtrarMaioresForEach(lista) {
-  lista.forEach(usuario => {
+function filtrarMaioresForEach(usuarios) {
+  usuarios.forEach(usuario => {
     if (usuario.idade >= 18) {
       console.log(usuario.nome);
     }

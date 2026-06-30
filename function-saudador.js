@@ -9,6 +9,6 @@ function saudarUsuario(nome,segundoNome ) {
 
 // 2. Usando a função
 let nomeDigitado = prompt("Qual o seu nome? ");
-
+saudarUsuario();
 // const x = saudarUsuario(nomeDigitado);
-console.log(variavelquenaoexsite)
+// console.log(variavelquenaoexsite)
